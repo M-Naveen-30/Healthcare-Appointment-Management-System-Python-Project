@@ -1,0 +1,60 @@
+{
+  "appointments": [
+    {
+      "slot_key": "4|23-MAY-2026|3",
+      "name": "Naveen M",
+      "age": 23,
+      "gender": "Male",
+      "phone": "8870737287",
+      "doctor": "Dr. Nethra    (Pediatrician)",
+      "date": "23-MAY-2026",
+      "time": "EVENING (05:00 - 08:30)",
+      "purpose": "My Child is sick and has fever and cold",
+      "token": 1,
+      "wa_target": "+918870737287",
+      "created_at": "2026-05-10T15:10:39.795665"
+    },
+    {
+      "slot_key": "2|23-MAY-2026|2",
+      "name": "Naveen M",
+      "age": 23,
+      "gender": "Male",
+      "phone": "8870737287",
+      "doctor": "Dr. Vasudha   (Obstetrician)",
+      "date": "23-MAY-2026",
+      "time": "NOON    (12:00 - 02:30)",
+      "purpose": "For my Wife's Pregnency",
+      "token": 1,
+      "wa_target": "+918870737287",
+      "created_at": "2026-05-10T15:30:20.137116"
+    },
+    {
+      "slot_key": "1|22-MAY-2026|1",
+      "name": "Sindhu",
+      "age": 49,
+      "gender": "female",
+      "phone": "9443281240",
+      "doctor": "Dr. Ponvanan  (Cardiologist)",
+      "date": "22-MAY-2026",
+      "time": "DAY     (08:30 - 11:30)",
+      "purpose": "heart pain",
+      "token": 1,
+      "wa_target": "+919443281240",
+      "created_at": "2026-05-10T15:34:56.763018"
+    },
+    {
+      "slot_key": "3|11-MAY-2026|1",
+      "name": "mohan",
+      "age": 62,
+      "gender": "male",
+      "phone": "9443267353",
+      "doctor": "Dr. Sam       (General Medicine)",
+      "date": "11-MAY-2026",
+      "time": "DAY     (08:30 - 11:30)",
+      "purpose": "Fever,Cold and Headach",
+      "token": 1,
+      "wa_target": "+919443267353",
+      "created_at": "2026-05-10T22:33:52.184534"
+    }
+  ]
+}

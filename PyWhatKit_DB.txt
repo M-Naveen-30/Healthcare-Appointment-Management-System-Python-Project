@@ -1,0 +1,44 @@
+Date: 10/5/2026
+Time: 15:8
+Phone Number: +918870737287
+Message: Salem GH Appointment SystemHello Naveen M, your login OTP is : 3185(valid for 5 minutes)
+--------------------
+Date: 10/5/2026
+Time: 15:10
+Phone Number: +918870737287
+Image: C:\Users\Naveen M\PycharmProjects\Mini Project\.venv\Scripts\SalemGH-Appointment\assets\slip_1.png
+Caption: Salem GH Appointment SlipPatient : Naveen MDoctor : Dr. Nethra (Pediatrician)Date : 23-MAY-2026 | Slot : EVENING (05:00 - 08:30)Token No : 1Payment : SUCCESSFUL
+--------------------
+Date: 10/5/2026
+Time: 15:28
+Phone Number: +918870737287
+Message: Salem GH Appointment SystemHello Naveen M, your login OTP is : 5805(valid for 5 minutes)
+--------------------
+Date: 10/5/2026
+Time: 15:30
+Phone Number: +918870737287
+Image: C:\Users\Naveen M\PycharmProjects\Mini Project\.venv\Scripts\SalemGH-Appointment\assets\slip_1.png
+Caption: Salem GH Appointment SlipPatient : Naveen MDoctor : Dr. Vasudha (Obstetrician)Date : 23-MAY-2026 | Slot : NOON (12:00 - 02:30)Token No : 1Payment : SUCCESSFUL
+--------------------
+Date: 10/5/2026
+Time: 15:33
+Phone Number: +919443281240
+Message: Salem GH Appointment SystemHello Sindhu, your login OTP is : 3947(valid for 5 minutes)
+--------------------
+Date: 10/5/2026
+Time: 15:34
+Phone Number: +919443281240
+Image: C:\Users\Naveen M\PycharmProjects\Mini Project\.venv\Scripts\SalemGH-Appointment\assets\slip_1.png
+Caption: Salem GH Appointment SlipPatient : SindhuDoctor : Dr. Ponvanan (Cardiologist)Date : 22-MAY-2026 | Slot : DAY (08:30 - 11:30)Token No : 1Payment : SUCCESSFUL
+--------------------
+Date: 10/5/2026
+Time: 22:30
+Phone Number: +919443267353
+Message: Salem GH Appointment SystemHello mohan, your login OTP is : 1578(valid for 5 minutes)
+--------------------
+Date: 10/5/2026
+Time: 22:33
+Phone Number: +919443267353
+Image: C:\Users\Naveen M\PycharmProjects\Mini Project\.venv\Scripts\SalemGH-Appointment\assets\slip_1.png
+Caption: Salem GH Appointment SlipPatient : mohanDoctor : Dr. Sam (General Medicine)Date : 11-MAY-2026 | Slot : DAY (08:30 - 11:30)Token No : 1Payment : SUCCESSFUL
+--------------------
